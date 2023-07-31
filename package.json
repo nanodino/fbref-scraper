@@ -2,7 +2,7 @@
   "name": "fbref-scraper",
   "version": "0.0.1",
   "description": "A scraper for fbref",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "test"
   },
